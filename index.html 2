@@ -1,0 +1,35 @@
+<!doctype html>
+<html>
+
+	<head>
+		<title> Page 02 </title>
+	
+	</head>
+
+	<body>
+		<u><h1 align="center"> HOBBIES OF ACTIVITIES </h1></u>
+
+
+		<h3> Favourite Book: Himu</h3>
+		<img src="Himu.jpg" height="200" width="300"/>
+
+		<h3> Favourite Artists: Shahrukh khan</h3>
+		<img src="shahrukh khan.jpg" height="200" width="300"/>
+
+		<h3> Favourite Movies: Mission Impossible</h3>
+		<img src="Mission impossible.jpg" height="200" width="300"/> 
+
+		<h3> Favourite Sports: Cricket</h3>
+		<img src="Cricket 01.jpg" height="200" width="300"/> 
+
+		<h3> Favourite Game: PUBG</h3>
+		<img src="PUBG.jpg" heigh="200" width="300"/>
+
+		<h3> Favourite Pastime: Watching comedy scene</h3>
+		<img src="comedy scene.jpg" heigh="200" width="300"/> <br/>
+
+		
+		<a href="file:///C:/Users/HP/Desktop/HTML%20Project/Page%2001.html" target="blank"> Click here to visit Page 01</a>
+
+	</body>
+</html>
